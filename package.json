@@ -22,10 +22,10 @@
   "homepage": "https://github.com/LionC/persistent-cache#readme",
   "dependencies": {
     "mkdirp-no-bin": "^0.5.1",
-    "rmdir": "^1.2.0"
+    "rmdir": "git@github.com:punkish/node.rmdir.git"
   },
   "devDependencies": {
-    "mocha": "^2.5.3",
+    "mocha": "^8.1.2",
     "should": "^9.0.2"
   }
 }
